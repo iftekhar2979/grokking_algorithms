@@ -20,6 +20,7 @@ assets/assetpack.db
 assets/cache
 .sass-cache/
 html/css/style.css.map
+temp_auto_push.bat
 html/links.txt
 xt/aspell.pws
 highlights/node_modules
@@ -42,4 +43,6 @@ zig-cache
 /.env
 atlassian-ide-plugin.xml
 __pycache__
-.vscode
+branch_structure.json
+.gitignore
+temp_interactive_push.bat
